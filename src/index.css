@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: "Catamaran", sans-serif;
+   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+.pagination{
+  margin-top:450px;
+}
+@media only screen and (max-width: 375px){
+  div.swiper-container{
+    height:667px;
+  }
+}
+.swiper-container{
+  height:618px;
+}
+/* home */
+@media only screen and (max-width: 768px){
+div#homee{
+  background-image: url( './assets/home3.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+
+}
+}
+#homee{
+    background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover  ;
+    background-position:center;
+    height:618px;
+}
+
+/* culture */
+#culture{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-3-blued.jpg');
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    background-position: center;
+   
+    height:618px;
+}
+/* team */
+#team{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-4.jpg');
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height:618px;
+}
+
+#portfolio{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-5.jpg');
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:618px;
+}
+
+#testimentials{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-6.jpg');
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height:618px;
+}
+
+#updates{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-last.jpg');
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height:618px;
+}
+
+#currer{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/07/bg-slider-7.jpg');
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+  
+    height:618px;
+}
+#contact{
+  background-color:#020920;
+height:618px;
+}

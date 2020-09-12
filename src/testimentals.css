@@ -1,0 +1,27 @@
+#khatau-heading{
+    color:white;
+    font-size: 50px;
+    font-family: "Catamaran", sans-serif;
+}
+#khatau-content{
+    color:white;
+    font-size:20px; 
+    line-height: 30px;
+    opacity: 0.5;
+    text-align: justify;
+    font-family: "italic", sans-serif;
+    padding-right:60px;
+}
+#name-khatau{
+    margin-top:50px;
+    margin-bottom:10;
+    font-family: "Catamaran", sans-serif;
+    color:white;
+}
+#post{
+    font-size: 20px;color:#ff0000;
+    font-family: "Catamaran", sans-serif;
+}
+.khatau{
+    margin-top:70px;
+}

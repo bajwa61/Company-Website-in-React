@@ -1,0 +1,41 @@
+.navbar-container{
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    right:0;
+    background-image:url('http://newstate.io/wp-content/uploads/2019/06/image-with-shapes.jpg');
+    transform:translateY(-100%);
+    transition: transform 0.5s ease-out;
+    z-index:2;
+}
+.navbar-container ul{
+    text-align: center;
+     margin-top: 60px;
+     position:relative;
+     
+     z-index:3;
+}
+.navbar-container li a{
+    display:block;
+    text-decoration:none;
+    margin-top: 50px;
+}
+.navbar-container li a .menu-text{
+   
+     font-weight: 800;
+     font-size: 35px;
+     color:white;
+     
+    }
+.navbar-container li a .menu-text:hover{
+    border-radius: 30px;
+     padding: 0 50px; 
+     background-color: #fff;
+      color: #000;
+      transition: 0.5s ease-in-out;
+      margin:50px;
+}
+.open{
+    transform:translateY(0px);
+}

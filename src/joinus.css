@@ -1,0 +1,21 @@
+#link{
+    background: linear-gradient(to top right, #020613 20px, #fc3d09 80px);
+     border-radius: 50px; 
+     color: #122dff; 
+     display: inline-block;
+      font-size: 20px; 
+      padding: 4px; 
+      text-decoration: none;
+      
+}
+#span{
+    background:#020613;
+    display:block;color:#fff;
+    font-weight:700;
+    padding:10px 60px;
+    border-radius:50px;
+}
+.c{
+    text-align:justify;
+    /* padding-right:40px; */
+}

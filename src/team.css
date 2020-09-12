@@ -1,0 +1,62 @@
+.zoom-in-on-hover img {
+     transition: transform .2s;
+     }
+.zoom-in-on-hover img:hover {
+     transform: scale(0.95);
+     }
+.zoom-out-on-hover .zoom-out-on-hover-zoom-it {
+     transition: transform .2s; 
+    }
+.zoom-out-on-hover .zoom-out-on-hover-zoom-it:hover {
+     transform: scale(1.05);
+     }
+.team-img-container {
+     background-image: linear-gradient(to right bottom, #020920 25%, #0422b7);
+      border-radius: 50%; 
+    }
+.team-img {
+     width: 100%;
+      padding: 7px;
+       filter: grayscale(100%);
+     }
+.team-img:hover {
+     filter: none; 
+    }
+.card {
+     background-color: rgba(255, 255, 255, 0.7);
+     }
+@media only screen and (max-width:1599px) and (min-width:1200px) {
+
+  nav .menu li a .menu-text { font-size: 32px; 
+    line-height: 100px;
+ }
+}
+.rounded { 
+    border-radius: 50% !important; 
+}
+.grayscale {
+     filter: grayscale(100%); 
+    }
+.grayscale:hover {
+     filter: none;
+     }
+.we-work-img { 
+    height: 80px;
+ }
+h5.card-title { 
+    color: #000; font-size: 15px;
+     white-space: pre; 
+    }
+.name-of-team-member { 
+    margin-top: 50px; 
+}
+.title-of-the-post { 
+    margin-bottom: 30px;
+ }
+ .content{
+     margin-right: 150px;
+     margin-left:150px;
+     margin-top:100px;
+     margin-bottom:120px;
+ }
+ 

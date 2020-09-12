@@ -1,0 +1,37 @@
+#new-state-heading{
+    font-size: 70px;
+    margin-bottom:50px;
+    font-weight: bold;
+    color:white;
+    margin-top:130px;
+    padding-left:20px;
+    /* font-family: "Catamaran", sans-serif; */
+}
+@media only screen and (max-width: 768px) {
+    p#paraghraph{
+        font-size: 15px;
+        font-weight: 100;
+      
+        text-align: justify;
+        margin-left:3px;
+        margin-right:65px;
+    }
+    h1#new-state-heading{
+        font-size: 40px;
+        margin-bottom:30px;
+        text-align:left;
+        
+    }
+}
+#paraghraph{
+    
+    font-size: 20px;
+    font-weight: 250;
+    line-height: 125%;
+  
+    color:white;
+    font-family: "Catamaran", sans-serif;
+    text-align: justify;
+    padding-left:20px;
+}
+

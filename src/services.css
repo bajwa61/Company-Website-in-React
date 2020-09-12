@@ -1,0 +1,80 @@
+
+
+#web-img{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/06/web.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+#mob-img{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/06/mobile.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+#block-img{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/06/blockchain-min.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+#iot-img{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/08/iot-min-1024x614.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+#ai-img{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/08/artificial-intelligence-1024x683.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+#vr-img{
+  background-image: url('http://newstate.io/wp-content/uploads/2019/06/arvr.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+
+.discription{
+  position:fixed;
+  height:100%;
+  width:100%;
+  text-align: center;
+  
+}
+.service-heading{
+ 
+  font-size:50px;
+  font-weight:bold;
+  margin-top:250px;
+  margin-left:350px;
+  text-align: center;
+  width:650px;;
+  
+  
+  font-family:"Catamaran", sans-serif;
+  color:white;
+}
+.service-parah{
+  margin-top:-140px;
+ margin-left:350px;
+  font-size:15px;
+  color:white;
+  
+}
+
+.bg{
+  background-image: linear-gradient(to right bottom, #757f9a, #8c96ad, #a4adc0, #bdc5d4, #d7dde8);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+
+#visible{
+  opacity:1;
+}
+#invisible{
+  opacity:0;
+} 

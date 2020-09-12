@@ -1,0 +1,27 @@
+.toggle-switch{
+    display:block;
+    cursor:pointer;
+  
+    
+    position:relative;
+    margin:10px;
+    z-index:3;
+}
+.bars1,.bars2,.bars3{
+    display:block;
+    width:25px;
+    margin:6px;
+    border:1px solid rgba(248, 243, 243, 0.829);
+    transition:transform 0.2s ease-in;
+}
+.changes .bars1{
+     transform:rotate(-45deg) translate(-5px,6px);
+     border:1px solid white;
+}
+.changes .bars2{
+    opacity:0;
+}
+.changes .bars3{
+     transform:rotate(45deg) translate(-6px,-6px); 
+     border:1px solid white;
+}

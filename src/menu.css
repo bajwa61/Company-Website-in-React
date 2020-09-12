@@ -1,0 +1,33 @@
+.sidenav{
+    height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.sidenav ul li{
+    list-style-type: none;
+}
+.hamburger{
+    margin-top:440px;
+}
+.sticky{
+    position: sticky;
+
+  top: 20;
+}
+@media only screen and (max-width: 768px){
+  li.hamburger{
+    margin-top:470px;
+  }
+  li.logo{
+    margin-top:20px;
+  }
+}
+
+
+

@@ -1,0 +1,28 @@
+
+        
+       .reading-friends{
+           position:fixed;
+           height:100%;
+           width:100%;
+           
+           left:20px;
+           opacity:1;
+       }
+      .visible{
+          opacity:1;
+      }
+      .invisible{
+          opacity:0;
+      }
+      .opti-care{
+        position:fixed;
+        height:100%;
+        width:100%;
+        
+    
+        
+    
+        opacity:0;
+    }
+       
+      

@@ -1,0 +1,50 @@
+.award-content ul.rn-award-list li a {
+     display: inline; 
+     list-style-type: none;
+    
+
+    }
+    #address{
+        display:inline-block;
+        width:35px;
+        color:#ee5630;
+        font-size:20px!important;
+        list-style-type: none;
+        text-align:justify;
+       
+    }
+    #address1{
+        font-size:20px!important;
+        display:inline-block;
+        width:50px;
+        opacity: 0;
+        list-style-type: none;
+        margin-bottom:20px;
+    }
+    #address2{
+        display:inline-block;
+        width:50px;
+        opacity: 0;
+        font-size:20px!important;
+        list-style-type: none;
+        margin-bottom:20px;
+    }
+    #number{
+        display:inline-block;
+        width:50px;
+        color:#ee5630;
+        font-size:20px!important;
+        list-style-type: none;
+        margin-bottom:40px;
+        
+    }
+    #web{
+        display:inline-block;
+        width:55px;
+        color:#ee5630;
+        font-size:20px!important;
+        list-style-type: none;
+
+    }
+  
+    
